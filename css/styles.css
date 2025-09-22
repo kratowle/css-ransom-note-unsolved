@@ -55,7 +55,7 @@ body {
 
 .whyWLetter {
   font-size: 72px;
-  font-weight: bold;
+  font-weight: normal;
   color: aqua;
   text-decoration: underline;
   text-transform: uppercase;
@@ -63,7 +63,7 @@ body {
 }
 
 .whyHLetter {
-  font-size: 50px;
+  font-size: 75px;
   font-weight: bold;
   color: rgb(20, 19, 16);
   text-decoration: overline;
