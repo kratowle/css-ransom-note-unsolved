@@ -325,135 +325,451 @@ body {
   font-size: 68px;
   font-weight: bold;
   color: #353803;
+  text-transform: lowercase;
+  text-decoration: underline;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .upPLetter {
+  font-size: 46px;
+  font-weight: 700;
+  color: #eb0901;
+  text-transform: lowercase;
+  text-decoration: overline;
+  font-family: "Courier New", Courier, monospace;
 }
 
 /* GARDENING word */
 
 .gardeningGLetter {
+  font-size: 72px;
+  font-weight: bold;
+  font-family: Georgia, Times, serif;
+  color: #109c2ea4;
+  text-transform: uppercase;
+  text-decoration: line-through;
 }
 .gardeningALetter {
+  font-size: 62px;
+  font-weight: 400;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #221a3b;
+  text-transform: lowercase;
+  text-decoration: none;
 }
 .gardeningRLetter {
+  font-size: 43px;
+  font-weight: 700;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Verdana, sans-serif;
+  color: hsl(204, 77%, 18%);
+  text-transform: uppercase;
+  text-decoration: overline;
 }
 .gardeningDLetter {
+  font-size: 51px;
+  font-weight: 700;
+  font-family: "Courier New", Courier, monospace;
+  color: #2a0849;
+  text-decoration: line-through;
+  text-transform: capitalize;
 }
 .gardeningELetter {
+  font-size: 63px;
+  font-weight: 400;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: #023b22;
+  text-decoration: line-through;
+  text-transform: lowercase;
 }
 .gardeningNLetter {
+  font-size: 55px;
+  font-weight: 700;
+  font-family: monospace;
+  color: #558a61;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 .gardeningILetter {
+  font-size: 51px;
+  font-weight: bold;
+  font-family: cursive;
+  color: #353803;
+  text-decoration: underline;
+  text-transform: uppercase;
 }
 .gardeningNTwoLetter {
+  font-size: 85px;
+  font-weight: 800;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #ffc4f7;
+  text-decoration: underline;
+  text-transform: lowercase;
 }
 .gardeningGTwoLetter {
+  font-size: 76px;
+  font-weight: normal;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #109c2ea4;
+  text-decoration: overline;
+  text-transform: uppercase;
 }
 
 /* BECAUSE word */
 
 .becauseBLetter {
+  font-size:61px;
+  font-weight:bolder;
+  font-family: 'Times New Roman', Times, serif;
+  color: #551126;
+  text-decoration:underline;
+  text-transform:uppercase;
 }
 .becauseELetter {
+  font-size: 65px;
+  font-family:'Courier New', Courier, monospace;
+  font-weight:bold;
+  color: #47f11d;
+  text-decoration:underline;
+  text-transform:lowercase;
 }
 .becauseCLetter {
+  font-size: 45px;
+  font-weight:lighter;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: #4d480c;
+  text-decoration:overline;
+  text-transform:uppercase;
 }
 .becauseALetter {
+  font-size: 86px;
+  font-weight:bold
+  font-family:
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .becauseULetter {
+  font-size: 76px;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .becauseSLetter {
+  font-size: 49px;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .becauseETwoLetter {
+  font-size: 64px;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 
 /* THEY word */
 
 .theyTLetter {
+  font-size: 56px;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .theyHLetter {
+  font-size: 49px;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .theyELetter {
+    font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .theyYLetter {
+    font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 
+  font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 /* WANTED word */
 
 .wantedWLetter {
+    font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .wantedALetter {
+    font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .wantedNLetter {
+    font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .wantedTLetter {
+    font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .wantedELetter {
+    font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .wantedDLetter {
+    font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 
 /* TO word */
 
 .toTLetter {
+    font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .toOLetter {
+    font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 
 /* IMPROVE word */
 
 .improveILetter {
+    font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .improveMLetter {
+    font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .improvePLetter {
+    font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .improveRLetter {
+    font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .improveOLetter {
+    font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .improveVLetter {
+    font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .improveELetter {
+    font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 
 /* THEIR word */
 
 .theirTLetter {
+    font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .theirHLetter {
+  font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .theirELetter {
+  font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .theirILetter {
+  font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .theirRLetter {
+  font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 
 /* ROOT word */
 
 .rootRLetter {
+  font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .rootOLetter {
+  font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .rootOTwoLetter {
+  font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .rootTLetter {
+  font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 
 /* SKILLS word */
 
 .skillsSLetter {
+  font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .skillsKLetter {
+  font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .skillsILetter {
+  font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .skillsLLetter {
+  font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .skillsLTwoLetter {
+  font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 .skillsSTwoLetter {
+  font-size: ;
+  font-weight: ;
+  font-family: ;
+  color: #ffc4f7;
+  text-decoration: ;
+  text-transform: ;
 }
 
 /* SYMBOLS */
