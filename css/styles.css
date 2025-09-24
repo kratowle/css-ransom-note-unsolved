@@ -69,749 +69,723 @@ body {
 	color: rgb(20, 19, 16);
 	text-decoration: overline;
 	text-transform: lowercase;
-	font-family: "Ewert", serif;
-}
-
-.whyYLetter {
-	font-size: 60px;
-	font-weight: normal;
-	color: coral;
-	text-decoration: none;
-	text-transform: uppercase;
-	font-family: "Bungee Shade", sans-serif;
-}
-
-/* DID word */
-
-.didDLetter {
-	font-size: 50px;
-	font-weight: lighter;
-	color: rgb(70, 28, 13);
-	text-decoration: overline;
-	text-transform: uppercase;
-	font-family: "Rubik Moonrocks", sans-serif;
-}
-
-.didILetter {
-	font-size: 90px;
-	font-weight: lighter;
-	color: rgb(1, 5, 3);
-	text-decoration: none;
-	text-transform: lowercase;
-	font-family: "Rubik Maze", system-ui;
-}
-
-.didDTwoLetter {
-	font-size: 68px;
-	font-weight: lighter;
-	color: rgb(18, 138, 24);
-	text-decoration: none;
-	text-transform: uppercase;
-	font-family: "Rubik Moonrocks", sans-serif;
-}
-
-/* THE word */
-
-.theTLetter {
-	font-size: 50px;
-	font-weight: normal;
-	color: rgb(68, 5, 241);
-	text-decoration: none;
-	text-transform: uppercase;
-	font-family: "Trade Winds", system-ui;
-}
-
-.theHLetter {
-	font-size: 72px;
-	font-weight: bold;
-	color: aqua;
-	text-decoration: none;
-	text-transform: uppercase;
-	font-family: "Trade Winds", system-ui;
-}
-
-.theELetter {
-	font-size: 72px;
-	font-weight: bold;
-	color: rgb(178, 247, 68);
-	text-decoration: overline;
-	text-transform: lowercase;
-	font-family: "Trade Winds", system-ui;
-}
-
-/* FRONT-END word */
-
-.frontendFLetter {
-	font-size: 72px;
-	font-weight: light;
-	color: rgb(26, 68, 15);
-	text-decoration: underline;
-	text-transform: normal;
-	font-family: "Monofett", monospace;
-}
-
-.frontendRLetter {
-	font-size: 72px;
-	font-weight: bold;
-	color: aqua;
-	text-transform: uppercase;
-	font-family: "Monofett", monospace;
-}
-
-.frontendOLetter {
-	font-size: 82px;
-	font-weight: bold;
-	color: #eaf0f0;
-	text-decoration: underline;
-	text-transform: uppercase;
-	font-family: "Monofett", monospace;
-}
-
-.frontendNLetter {
-	font-size: 56px;
-	font-weight: bold;
-	color: rgb(13, 59, 1);
-	text-decoration: overline;
-	text-transform: uppercase;
-	font-family: "Monofett", monospace;
-}
-
-.frontendTLetter {
-	font-size: 45px;
-	font-weight: light;
-	color: aqua;
-	text-decoration: bold;
-	text-transform: uppercase;
-	font-family: "Monofett", monospace;
-}
-
-.frontendELetter {
-	font-size: 90px;
-	font-weight: normal;
-	color: rgb(0, 0, 0);
-	text-transform: uppercase;
-	font-family: "Honk", system-ui;
-}
-
-.frontendNTwoLetter {
-	font-size: 84px;
-	font-weight: bold;
-	color: rgba(6, 252, 231, 0.856);
-	text-decoration: none;
-	text-transform: uppercase;
-	font-family: "Honk", system-ui;
-}
-
-.frontendDLetter {
-	font-size: 73px;
-	font-weight: 100;
-	color: rgb(14, 53, 23);
-	text-decoration: overline;
-	text-transform: lowercase;
-	font-family: "Honk", system-ui;
-}
-
-/* DEVELOPER word */
-
-.developerDLetter {
-	font-size: 60px;
-	font-weight: light;
-	color: #472a21;
-	text-decoration: line-through;
-	text-transform: lowercase;
-	font-family: "Nabla", system-ui;
-}
-
-.developerELetter {
-	font-size: 58px;
-	font-weight: bold;
-	color: rgb(0, 0, 0);
-	text-decoration: solid;
-	text-transform: uppercase;
-	font-family: "Nabla", system-ui;
-}
-
-.developerVLetter {
-	font-size: 70px;
-	font-weight: bold;
-	color: #03fc39;
-	text-transform: uppercase;
-	font-family: "Nabla", system-ui;
-}
-
-.developerETwoLetter {
-	font-size: 57px;
-	font-weight: bold;
-	color: #1c1aad;
-	text-decoration: overline;
-	text-shadow: black;
-	text-transform: lowercase;
-	font-family: "Nabla", system-ui;
-}
-
-.developerLLetter {
-	font-size: 82px;
-	font-weight: bold;
-	color: #558a61;
-	text-decoration: wavy;
-	text-shadow: #0d1136;
-	text-transform: uppercase;
-	font-family: "Nabla", system-ui;
-}
-
-.developerOLetter {
-	font-size: 72px;
-	font-weight: lighter;
-	color: #a8474d;
-	text-shadow: #ffc4f7;
-	text-decoration: line-through;
-	text-transform: lowercase;
-	font-family: "Nabla", system-ui;
-}
-
-.developerPLetter {
-	font-size: 70px;
-	font-weight: bold;
-	color: #0d1136;
-	text-decoration: dashed;
-	text-transform: lowercase;
-	font-family: "Nabla", system-ui;
-}
-
-.developerEThreeLetter {
-	font-size: 57px;
-	font-weight: bold;
-	color: #eb0901;
-	text-transform: lowercase;
-	font-family: "Nabla", system-ui;
-}
-
-.developerRLetter {
-	font-size: 53px;
-	font-weight: 123;
-	color: #023b22;
-	text-transform: uppercase;
-	font-family: "Nabla", system-ui;
-}
-
-/* TAKE word */
-.takeTLetter {
-	font-size: 107px;
-	font-weight: 500;
-	color: #472a21;
-	text-transform: capitalize;
-	text-decoration: underline;
-	font-family: "Tilt Prism", sans-serif;
-}
-
-.takeALetter {
-	font-size: 105px;
-	font-weight: 300;
-	color: rgb(1, 10, 10);
-	text-transform: lowercase;
-	text-decoration: wavy;
-	font-family: "Tilt Prism", sans-serif;
-}
-
-.takeKLetter {
-	font-size: 90px;
-	font-weight: bolder;
-	color: #0d1136;
-	text-transform: uppercase;
-	text-decoration: line-through;
-	font-family: "Tilt Prism", sans-serif;
-}
-
-.takeELetter {
-	font-size: 83px;
-	font-weight: normal;
-	color: #0c0101;
-	text-transform: uppercase;
-	text-decoration: underline;
-	font-family: "Tilt Prism", sans-serif;
-}
-
-/* UP word */
-.upULetter {
-	font-size: 68px;
-	font-weight: bold;
-	color: #353803;
-	text-transform: lowercase;
-	text-decoration: underline;
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.upPLetter {
-	font-size: 46px;
-	font-weight: 700;
-	color: #eb0901;
-	text-transform: lowercase;
-	text-decoration: overline;
-	font-family: "Courier New", Courier, monospace;
-}
-
-/* GARDENING word */
-
-.gardeningGLetter {
-	font-size: 72px;
-	font-weight: bold;
-	font-family: Georgia, Times, serif;
-	color: #109c2ea4;
-	text-transform: uppercase;
-	text-decoration: "Sedgwick Ave Display", cursive;
-}
-
-.gardeningALetter {
-	font-size: 62px;
-	font-weight: 400;
-	font-family: "Sedgwick Ave Display", cursive;
-	color: #221a3b;
-	text-transform: lowercase;
-	text-decoration: none;
-}
-
-.gardeningRLetter {
-	font-size: 43px;
-	font-weight: 700;
-	font-family: "Sedgwick Ave Display", cursive;
-	color: hsl(204, 77%, 18%);
-	text-transform: uppercase;
-	text-decoration: overline;
-}
-
-.gardeningDLetter {
-	font-size: 51px;
-	font-weight: 700;
-	font-family: "Kavoon", serif;
-	color: #2a0849;
-	text-decoration: line-through;
-	text-transform: capitalize;
-}
-
-.gardeningELetter {
-	font-size: 63px;
-	font-weight: 400;
-	font-family: "Kavoon", serif;
-	color: #023b22;
-	text-decoration: line-through;
-	text-transform: lowercase;
-}
-
-.gardeningNLetter {
-	font-size: 55px;
-	font-weight: 100;
-	font-family: "Fredericka the Great", serif;
-	color: #558a61;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-
-.gardeningILetter {
-	font-size: 51px;
-	font-weight: 200;
-	font-family: "Fredericka the Great", serif;
-	color: #353803;
-	text-decoration: underline;
-	text-transform: uppercase;
-}
-
-.gardeningNTwoLetter {
-	font-size: 85px;
-	font-weight: 100;
-	font-family: "Fredericka the Great", serif;
-	color: #ffc4f7;
-	text-decoration: underline;
-	text-transform: lowercase;
-}
-
-.gardeningGTwoLetter {
-	font-size: 76px;
-	font-weight: normal;
-	font-family: "Fredericka the Great", serif;
-	color: #109c2ea4;
-	text-decoration: overline;
-	text-transform: uppercase;
-}
-
-/* BECAUSE word */
-
-.becauseBLetter {
-	font-size: 101px;
-	font-weight: bolder;
-	font-family: "Ewert", serif;
-	color: #551126;
-	text-decoration: underline;
-	text-transform: uppercase;
-}
-
-.becauseELetter {
-	font-size: 65px;
-	font-family: "Rye", serif;
-	font-weight: bold;
-	color: #47f11d;
-	text-decoration: underline;
-	text-transform: lowercase;
-}
-
-.becauseCLetter {
-	font-size: 45px;
-	font-weight: lighter;
-	font-family: "Rye", serif;
-	color: #4d480c;
-	text-decoration: overline;
-	text-transform: uppercase;
-}
-
-.becauseALetter {
-	font-size: 86px;
-	font-weight: bold;
-	font-family: "Bungee", sans-serif;
-	color: #4ef2b9;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-
-.becauseULetter {
-	font-size: 76px;
-	font-weight: lighter;
-	font-family: "Rubik Moonrocks", sans-serif;
-	color: #ffc4f7;
-	text-decoration: overline;
-	text-transform: uppercase;
-}
-
-.becauseSLetter {
-	font-size: 49px;
-	font-weight: bold;
-	font-family: "Rye", serif;
-	color: #070006a2;
-	text-decoration: overline;
-	text-transform: uppercase;
-}
-
-.becauseETwoLetter {
-	font-size: 64px;
-	font-weight: lighter;
-	font-family: "Rye", serif;
-	color: #ffc4f7;
-	text-decoration: underline;
-	text-transform: lowercase;
-}
-
-/* THEY word */
-
-.theyTLetter {
-	font-size: 76px;
-	font-weight: lighter;
-	font-family: "Fredericka the Great", serif;
-	color: #ffc4f7;
-	text-decoration: none;
-	text-transform: lowercase;
-}
-
-.theyHLetter {
-	font-size: 49px;
-	font-weight: light;
-	font-family: "Fredericka the Great", serif;
-	color: #0b3a0a;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-
-.theyELetter {
-	font-size: 60px;
-	font-weight: normal;
-	font-family: "Fredericka the Great", serif;
-	color: #ffc4f7;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-
-.theyYLetter {
-	font-size: 100px;
-	font-weight: normal;
-	font-family: "Fredericka the Great", serif;
-	color: #000000;
-	text-decoration: underline;
-	text-transform: uppercase;
-}
-
-/* WANTED word */
-
-.wantedWLetter {
-	color: #ffc4f7;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-
-.wantedALetter {
-	color: #000000;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-
-.wantedNLetter {
-	color: #ffc4f7;
-	text-decoration: underline;
-	text-transform: uppercase;
-}
-
-.wantedTLetter {
-	color: #ffffff;
-	text-decoration: overline;
-	text-transform: lowercase;
-}
-
-.wantedELetter {
-	color: #0f0231;
-	text-decoration: underline;
-	text-transform: lowercase;
-}
-
-.wantedDLetter {
-	color: #e5ff00;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-
-/* TO word */
-
-.toTLetter {
-	font-size: 101px;
-	font-weight: lighter;
-	font-family: "Rubik Maze", system-ui;
-	color: #000000;
-	text-decoration: underline;
-	text-transform: lowercase;
-}
-
-.toOLetter {
-	font-size: 100px;
-	font-weight: lighter;
-	font-family: "Rubik Maze", system-ui;
-	color: #1a311c;
-	text-decoration: none;
-	text-transform: lowercase;
-}
-
-/* IMPROVE word */
-
-.improveILetter {
-	font-size: 80px;
-	font-weight: lighter;
-	font-family: "Bungee Shade", sans-serif;
-	color: #053346;
-	text-decoration: underline;
-	text-transform: uppercase;
-}
-
-.improveMLetter {
-	font-size: 88px;
-	font-weight: bold;
-	font-family: "Bungee Shade", sans-serif;
-	color: #500d02;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-
-.improvePLetter {
-	font-size: 75px;
-	font-weight: normal;
-	font-family: "Bungee Shade", sans-serif;
-	color: #499e28;
-	text-decoration: overline;
-	text-transform: uppercase;
-}
-
-.improveRLetter {
-	font-size: 77px;
-	font-weight: normal;
-	font-family: "Bungee Shade", sans-serif;
-	color: #020101;
-	text-decoration: none;
-	text-transform: lowercase;
-}
-
-.improveOLetter {
-	font-size: 80px;
-	font-weight: normal;
-	font-family: "Bungee Shade", sans-serif;
-	color: #20f704;
-	text-decoration: overline;
-	text-transform: uppercase;
-}
-
-.improveVLetter {
-	font-size: 90px;
-	font-weight: bold;
-	font-family: "Bungee Shade", sans-serif;
-	color: #020e0f;
-	text-decoration: overline;
-	text-transform: uppercase;
-}
-
-.improveELetter {
-	font-size: 90px;
-	font-weight: normal;
-	font-family: "Bungee Shade", sans-serif;
-	color: #ee6e05;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-
-/* THEIR word */
-
-.theirTLetter {
-	font-size: 85px;
-	font-weight: bold;
-	font-family: "Sedgwick Ave Display", cursive;
-	color: #56a1b4;
-	text-decoration: underline;
-	text-transform: uppercase;
-}
-
-.theirHLetter {
-	font-size: 90px;
-	font-weight: lighter;
-	font-family: "Sedgwick Ave Display", cursive;
-	color: #cce018;
-	text-decoration: underline;
-	text-transform: uppercase;
-}
-
-.theirELetter {
-	font-size: 88px;
-	font-weight: bold;
-	font-family: "Sedgwick Ave Display", cursive;
-	color: #6152e6;
-	text-decoration: underline;
-	text-transform: uppercase;
-}
-
-.theirILetter {
-	font-size: 90px;
-	font-weight: bold;
-	font-family: "Sedgwick Ave Display", cursive;
-	color: #0a6279;
-	text-decoration: none;
-	text-transform: lowercase;
-}
-
-.theirRLetter {
-	font-size: 100px;
-	font-weight: 400;
-	font-family: "Sedgwick Ave Display", cursive;
-	color: #000000;
-	text-decoration: none;
-	text-transform: lowercase;
-}
-
-/* ROOT word */
-
-.rootRLetter {
-	font-size: 61px;
-	color: #241722;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-
-.rootOLetter {
-	font-size: 79px;
-	color: #15ff00;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-
-.rootOTwoLetter {
-	font-size: 65px;
-	color: #c99cc3;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-
-.rootTLetter {
-	font-size: 79px;
-	color: #093a02;
-	text-decoration: underline;
-	text-transform: lowercase;
-}
-
-/* SKILLS word */
-
-.skillsSLetter {
-	font-size: 56px;
-	font-weight: normal;
-	font-family: "Honk", system-ui;
-	color: #63338a;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-
-.skillsKLetter {
-	font-size: 65px;
-	font-weight: bold;
-	font-family: "Honk", system-ui;
-	color: #b8dd10;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-
-.skillsILetter {
-	font-size: 80px;
-	font-weight: normal;
-	font-family: "Honk", system-ui;
-	color: #962e13;
-	text-decoration: none;
-	text-transform: lowercase;
-}
-
-.skillsLLetter {
-	font-size: 75px;
-	font-weight: normal;
-	font-family: "Honk", system-ui;
-	color: #70a3a5;
-	text-decoration: line-through;
-	text-transform: uppercase;
-}
-
-.skillsLTwoLetter {
-	font-size: 65px;
-	font-weight: normal;
-	font-family: "Honk", system-ui;
-	color: #102c19;
-	text-decoration: line-through;
-	text-transform: uppercase;
-}
-
-.skillsSTwoLetter {
-	font-size: 80px;
-	font-weight: lighter;
-	font-family: "Honk", system-ui;
-	color: #2f08df;
-	text-decoration: none;
-	text-transform: lowercase;
-}
-
-/* SYMBOLS */
-
-.exclamation-mark .question-mark .hyphen {
-	font-size: 95px;
-	font-family: "Honk", system-ui;
-}
-
-#root {
-	font-family: "Nabla", system-ui;
-	font-weight: normal;
-}
-
-#wanted {
-	font-family: "Honk", system-ui;
-	font-weight: 400;
-	font-size: 95px;
-}
-
-#to {
-	font-family: "Rubik Maze", system-ui;
-	font-size: 100px;
-	font-weight: 700;
-}
+
+	builtin.live_grep {
+		font-family: "Ewert", serif;
+	}
+
+	.whyYLetter {
+		font-size: 60px;
+		font-weight: normal;
+		color: coral;
+		text-decoration: none;
+		text-transform: uppercase;
+		font-family: "Bungee Shade", sans-serif;
+	}
+
+	/* DID word */
+
+	.didDLetter {
+		font-size: 50px;
+		color: rgb(70, 28, 13);
+		text-decoration: overline;
+		text-transform: uppercase;
+	}
+
+	.didILetter {
+		font-size: 90px;
+		color: rgb(1, 5, 3);
+		text-decoration: none;
+		text-transform: lowercase;
+	}
+
+	.didDTwoLetter {
+		font-size: 68px;
+		color: rgb(18, 138, 24);
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+
+	#did {
+		font-weight: lighter;
+		font-family: "Rubik Moonrocks";
+	}
+
+	/* THE word */
+
+	.theTLetter {
+		font-size: 50px;
+		color: rgb(68, 5, 241);
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+
+	.theHLetter {
+		font-size: 72px;
+		color: aqua;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+
+	.theELetter {
+		font-size: 72px;
+		color: rgb(178, 247, 68);
+		text-decoration: overline;
+		text-transform: lowercase;
+	}
+
+	#tha {
+		font-weight: bold;
+		font-family: "Trade Winds", system-ui;
+	}
+
+	/* FRONT-END word */
+
+	.frontendFLetter {
+		font-size: 72px;
+		font-weight: light;
+		color: rgb(26, 68, 15);
+		text-decoration: underline;
+		text-transform: normal;
+		font-family: "Monofett", monospace;
+	}
+
+	.frontendRLetter {
+		font-size: 72px;
+		font-weight: bold;
+		color: aqua;
+		text-transform: uppercase;
+		font-family: "Monofett", monospace;
+	}
+
+	.frontendOLetter {
+		font-size: 82px;
+		font-weight: bold;
+		color: #eaf0f0;
+		text-decoration: underline;
+		text-transform: uppercase;
+		font-family: "Monofett", monospace;
+	}
+
+	.frontendNLetter {
+		font-size: 56px;
+		font-weight: bold;
+		color: rgb(13, 59, 1);
+		text-decoration: overline;
+		text-transform: uppercase;
+		font-family: "Monofett", monospace;
+	}
+
+	.frontendTLetter {
+		font-size: 45px;
+		font-weight: light;
+		color: aqua;
+		text-decoration: bold;
+		text-transform: uppercase;
+		font-family: "Monofett", monospace;
+	}
+
+	.frontendELetter {
+		font-size: 90px;
+		font-weight: normal;
+		color: rgb(0, 0, 0);
+		text-transform: uppercase;
+		font-family: "Honk", system-ui;
+	}
+
+	.frontendNTwoLetter {
+		font-size: 84px;
+		font-weight: bold;
+		color: rgba(6, 252, 231, 0.856);
+		text-decoration: none;
+		text-transform: uppercase;
+		font-family: "Honk", system-ui;
+	}
+
+	.frontendDLetter {
+		font-size: 73px;
+		font-weight: 100;
+		color: rgb(14, 53, 23);
+		text-decoration: overline;
+		text-transform: lowercase;
+		font-family: "Honk", system-ui;
+	}
+
+	/* DEVELOPER word */
+
+	.developerDLetter {
+		font-size: 60px;
+		font-weight: light;
+		color: #472a21;
+		text-decoration: line-through;
+		text-transform: lowercase;
+		font-family: "Nabla", system-ui;
+	}
+
+	.developerELetter {
+		font-size: 58px;
+		font-weight: bold;
+		color: rgb(0, 0, 0);
+		text-decoration: solid;
+		text-transform: uppercase;
+		font-family: "Nabla", system-ui;
+	}
+
+	.developerVLetter {
+		font-size: 70px;
+		font-weight: bold;
+		color: #03fc39;
+		text-transform: uppercase;
+		font-family: "Nabla", system-ui;
+	}
+
+	.developerETwoLetter {
+		font-size: 57px;
+		font-weight: bold;
+		color: #1c1aad;
+		text-decoration: overline;
+		text-shadow: black;
+		text-transform: lowercase;
+		font-family: "Nabla", system-ui;
+	}
+
+	.developerLLetter {
+		font-size: 82px;
+		font-weight: bold;
+		color: #558a61;
+		text-decoration: wavy;
+		text-shadow: #0d1136;
+		text-transform: uppercase;
+		font-family: "Nabla", system-ui;
+	}
+
+	.developerOLetter {
+		font-size: 72px;
+		font-weight: lighter;
+		color: #a8474d;
+		text-shadow: #ffc4f7;
+		text-decoration: line-through;
+		text-transform: lowercase;
+		font-family: "Nabla", system-ui;
+	}
+
+	.developerPLetter {
+		font-size: 70px;
+		font-weight: bold;
+		color: #0d1136;
+		text-decoration: dashed;
+		text-transform: lowercase;
+		font-family: "Nabla", system-ui;
+	}
+
+	.developerEThreeLetter {
+		font-size: 57px;
+		font-weight: bold;
+		color: #eb0901;
+		text-transform: lowercase;
+		font-family: "Nabla", system-ui;
+	}
+
+	.developerRLetter {
+		font-size: 53px;
+		font-weight: 123;
+		color: #023b22;
+		text-transform: uppercase;
+		font-family: "Nabla", system-ui;
+	}
+
+	/* TAKE word */
+	.takeTLetter {
+		font-size: 107px;
+		font-weight: 500;
+		color: #472a21;
+		text-transform: capitalize;
+		text-decoration: underline;
+		font-family: "Tilt Prism", sans-serif;
+	}
+
+	.takeALetter {
+		font-size: 105px;
+		font-weight: 300;
+		color: rgb(1, 10, 10);
+		text-transform: lowercase;
+		text-decoration: wavy;
+		font-family: "Tilt Prism", sans-serif;
+	}
+
+	.takeKLetter {
+		font-size: 90px;
+		font-weight: bolder;
+		color: #0d1136;
+		text-transform: uppercase;
+		text-decoration: line-through;
+		font-family: "Tilt Prism", sans-serif;
+	}
+
+	.takeELetter {
+		font-size: 83px;
+		font-weight: normal;
+		color: #0c0101;
+		text-transform: uppercase;
+		text-decoration: underline;
+		font-family: "Tilt Prism", sans-serif;
+	}
+
+	/* UP word */
+	.upULetter {
+		font-size: 68px;
+		font-weight: bold;
+		color: #353803;
+		text-transform: lowercase;
+		text-decoration: underline;
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+	}
+
+	.upPLetter {
+		font-size: 46px;
+		font-weight: 700;
+		color: #eb0901;
+		text-transform: lowercase;
+		text-decoration: overline;
+		font-family: "Courier New", Courier, monospace;
+	}
+
+	/* GARDENING word */
+
+	.gardeningGLetter {
+		font-size: 72px;
+		font-weight: bold;
+		font-family: Georgia, Times, serif;
+		color: #109c2ea4;
+		text-transform: uppercase;
+		text-decoration: "Sedgwick Ave Display", cursive;
+	}
+
+	.gardeningALetter {
+		font-size: 62px;
+		font-weight: 400;
+		font-family: "Sedgwick Ave Display", cursive;
+		color: #221a3b;
+		text-transform: lowercase;
+		text-decoration: none;
+	}
+
+	.gardeningRLetter {
+		font-size: 43px;
+		font-weight: 700;
+		font-family: "Sedgwick Ave Display", cursive;
+		color: hsl(204, 77%, 18%);
+		text-transform: uppercase;
+		text-decoration: overline;
+	}
+
+	.gardeningDLetter {
+		font-size: 51px;
+		font-weight: 700;
+		font-family: "Kavoon", serif;
+		color: #2a0849;
+		text-decoration: line-through;
+		text-transform: capitalize;
+	}
+
+	.gardeningELetter {
+		font-size: 63px;
+		font-weight: 400;
+		font-family: "Kavoon", serif;
+		color: #023b22;
+		text-decoration: line-through;
+		text-transform: lowercase;
+	}
+
+	.gardeningNLetter {
+		font-size: 55px;
+		font-weight: 100;
+		font-family: "Fredericka the Great", serif;
+		color: #558a61;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+
+	.gardeningILetter {
+		font-size: 51px;
+		font-weight: 200;
+		font-family: "Fredericka the Great", serif;
+		color: #353803;
+		text-decoration: underline;
+		text-transform: uppercase;
+	}
+
+	.gardeningNTwoLetter {
+		font-size: 85px;
+		font-weight: 100;
+		font-family: "Fredericka the Great", serif;
+		color: #ffc4f7;
+		text-decoration: underline;
+		text-transform: lowercase;
+	}
+
+	.gardeningGTwoLetter {
+		font-size: 76px;
+		font-weight: normal;
+		font-family: "Fredericka the Great", serif;
+		color: #109c2ea4;
+		text-decoration: overline;
+		text-transform: uppercase;
+	}
+
+	/* BECAUSE word */
+
+	.becauseBLetter {
+		font-size: 101px;
+		font-weight: bolder;
+		font-family: "Ewert", serif;
+		color: #551126;
+		text-decoration: underline;
+		text-transform: uppercase;
+	}
+
+	.becauseELetter {
+		font-size: 65px;
+		font-family: "Rye", serif;
+		font-weight: bold;
+		color: #47f11d;
+		text-decoration: underline;
+		text-transform: lowercase;
+	}
+
+	.becauseCLetter {
+		font-size: 45px;
+		font-weight: lighter;
+		font-family: "Rye", serif;
+		color: #4d480c;
+		text-decoration: overline;
+		text-transform: uppercase;
+	}
+
+	.becauseALetter {
+		font-size: 86px;
+		font-weight: bold;
+		font-family: "Bungee", sans-serif;
+		color: #4ef2b9;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+
+	.becauseULetter {
+		font-size: 76px;
+		font-weight: lighter;
+		font-family: "Rubik Moonrocks", sans-serif;
+		color: #ffc4f7;
+		text-decoration: overline;
+		text-transform: uppercase;
+	}
+
+	.becauseSLetter {
+		font-size: 49px;
+		font-weight: bold;
+		font-family: "Rye", serif;
+		color: #070006a2;
+		text-decoration: overline;
+		text-transform: uppercase;
+	}
+
+	.becauseETwoLetter {
+		font-size: 64px;
+		font-weight: lighter;
+		font-family: "Rye", serif;
+		color: #ffc4f7;
+		text-decoration: underline;
+		text-transform: lowercase;
+	}
+
+	/* THEY word */
+
+	.theyTLetter {
+		font-size: 76px;
+		font-weight: lighter;
+		font-family: "Fredericka the Great", serif;
+		color: #ffc4f7;
+		text-decoration: none;
+		text-transform: lowercase;
+	}
+
+	.theyHLetter {
+		font-size: 49px;
+		font-weight: light;
+		font-family: "Fredericka the Great", serif;
+		color: #0b3a0a;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+
+	.theyELetter {
+		font-size: 60px;
+		font-weight: normal;
+		font-family: "Fredericka the Great", serif;
+		color: #ffc4f7;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+
+	.theyYLetter {
+		font-size: 100px;
+		font-weight: normal;
+		font-family: "Fredericka the Great", serif;
+		color: #000000;
+		text-decoration: underline;
+		text-transform: uppercase;
+	}
+
+	/* WANTED word */
+
+	.wantedWLetter {
+		color: #ffc4f7;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+
+	.wantedALetter {
+		color: #000000;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+
+	.wantedNLetter {
+		color: #ffc4f7;
+		text-decoration: underline;
+		text-transform: uppercase;
+	}
+
+	.wantedTLetter {
+		color: #ffffff;
+		text-decoration: overline;
+		text-transform: lowercase;
+	}
+
+	.wantedELetter {
+		color: #0f0231;
+		text-decoration: underline;
+		text-transform: lowercase;
+	}
+
+	.wantedDLetter {
+		color: #e5ff00;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+
+	/* TO word */
+
+	#2 {
+		font-family: "Rubik Maze", system-ui;
+		text-transform: lowercase;
+		font-weight: lighter;
+	}
+
+	.toTLetter {
+		font-size: 101px;
+		color: #000000;
+		text-decoration: underline;
+	}
+
+	.toOLetter {
+		font-size: 100px;
+		color: #1a311c;
+		text-decoration: none;
+	}
+
+	/* IMPROVE word */
+
+	.improveILetter {
+		font-size: 80px;
+		color: #053346;
+		text-decoration: underline;
+	}
+
+	.improveMLetter {
+		font-size: 88px;
+		color: #500d02;
+		text-decoration: none;
+	}
+
+	.improvePLetter {
+		font-size: 75px;
+		color: #499e28;
+		text-decoration: overline;
+	}
+
+	.improveRLetter {
+		font-size: 77px;
+		color: #020101;
+		text-decoration: none;
+	}
+
+	.improveOLetter {
+		font-size: 80px;
+		color: #20f704;
+		text-decoration: overline;
+	}
+
+	.improveVLetter {
+		font-size: 90px;
+		color: #020e0f;
+		text-decoration: overline;
+	}
+
+	.improveELetter {
+		font-size: 90px;
+		color: #ee6e05;
+		text-decoration: none;
+	}
+
+	#imprv {
+		text-transform: uppercase;
+		font-family: "Bungee Shade", sans-serif;
+		font-weight: normal;
+
+	}
+
+	/* THEIR word */
+
+	.theirTLetter {
+		font-size: 85px;
+		font-weight: bold;
+		color: #56a1b4;
+	}
+
+	.theirHLetter {
+		font-size: 90px;
+		font-weight: lighter;
+		color: #cce018;
+	}
+
+	.theirELetter {
+		font-size: 88px;
+		font-weight: bold;
+		color: #6152e6;
+	}
+
+	.theirILetter {
+		font-size: 90px;
+		font-weight: bold;
+		color: #0a6279;
+	}
+
+	.theirRLetter {
+		font-size: 100px;
+		font-weight: 400;
+		color: #000000;
+	}
+
+	#ther {
+		text-decoration: underline;
+		text-transform: uppercase;
+		font-family: "Sedgwick Ave Display", cursive;
+
+	}
+
+	/* ROOT word */
+
+	.rootRLetter {
+		font-size: 61px;
+		color: #241722;
+
+	}
+
+	.rootOLetter {
+		font-size: 79px;
+		color: #15ff00;
+	}
+
+	.rootOTwoLetter {
+		font-size: 65px;
+		color: #c99cc3;
+	}
+
+	.rootTLetter {
+		font-size: 79px;
+		color: #093a02;
+	}
+
+	/* SKILLS word */
+
+	.skillsSLetter {
+		font-size: 56px;
+		font-weight: normal;
+		color: #63338a;
+		text-decoration: line-through;
+		text-transform: uppercase;
+	}
+
+	.skillsKLetter {
+		font-size: 65px;
+		font-weight: bold;
+		color: #b8dd10;
+		text-decoration: overline;
+		text-transform: uppercase;
+	}
+
+	.skillsILetter {
+		font-size: 80px;
+		font-weight: normal;
+		color: #962e13;
+		text-decoration: none;
+		text-transform: lowercase;
+	}
+
+	.skillsLLetter {
+		font-size: 75px;
+		font-weight: normal;
+		color: #70a3a5;
+		text-decoration: line-through;
+		text-transform: uppercase;
+	}
+
+	.skillsLTwoLetter {
+		font-size: 65px;
+		font-weight: normal;
+		color: #102c19;
+		text-decoration: overline;
+		text-transform: uppercase;
+	}
+
+	.skillsSTwoLetter {
+		font-size: 80px;
+		font-weight: lighter;
+		color: #2f08df;
+		text-decoration: none;
+		text-transform: lowercase;
+	}
+
+	#skillz {
+		font-family: "Honk", system-ui;
+	}
+
+	/* SYMBOLS */
+
+	.exclamation-mark .question-mark,
+	.hyphen {
+		font-size: 95px;
+		font-family: "Honk", system-ui;
+		font-weight: normal;
+	}
+
+	#root {
+		font-family: "Nabla", system-ui;
+		font-weight: normal;
+		text-decoration: underline;
+		text-transform: lowercase;
+
+	}
+
+	#wanted {
+		font-family: "Honk", system-ui;
+		font-weight: 400;
+		font-size: 95px;
+	}
+
+	#to {
+		font-family: "Rubik Maze", system-ui;
+		font-size: 100px;
+		font-weight: 700;
+	}
