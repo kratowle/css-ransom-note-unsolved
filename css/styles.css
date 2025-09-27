@@ -217,7 +217,7 @@ body {
 .developerELetter {
 	font-size: 58px;
 	color: rgb(0, 0, 0);
-	text-decoration: solid;
+	text-decoration: underline;
 }
 
 .developerVLetter {
@@ -229,27 +229,27 @@ body {
 	font-size: 57px;
 	color: #1c1aad;
 	text-decoration: overline;
-	text-shadow: black;
+	text-shadow: 10px, 10px, 10px, black;
 }
 
 .developerLLetter {
 	font-size: 82px;
 	color: #558a61;
 	text-decoration: wavy;
-	text-shadow: #0d1136;
+	text-shadow: 10px, 10px, 10px, #0d1136;
 }
 
 .developerOLetter {
 	font-size: 72px;
 	color: #a8474d;
-	text-shadow: #ffc4f7;
+	text-shadow: 10px, 10px, 10px #ffc4f7;
 	text-decoration: line-through;
 }
 
 .developerPLetter {
 	font-size: 70px;
 	color: #0d1136;
-	text-decoration: dashed;
+	text-decoration: underline;
 }
 
 .developerEThreeLetter {
@@ -315,7 +315,7 @@ body {
 	color: #353803;
 	text-transform: lowercase;
 	text-decoration: underline;
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-family: "Kavoon", serif;
 }
 
 .upPLetter {
@@ -362,15 +362,13 @@ body {
 	font-family: "Kavoon", serif;
 	color: #2a0849;
 	text-decoration: line-through;
-	text-transform: capitalize;
+	text-transform: uppercase;
 }
 
 .gardeningELetter {
 	font-size: 63px;
 	font-weight: 400;
 	font-family: "Kavoon", serif;
-	color: #023b22;
-	text-decoration: line-through;
 	text-transform: lowercase;
 }
 
@@ -737,7 +735,12 @@ body {
 
 /* SYMBOLS */
 
-.exclamation-mark .question-mark,
+.exclamation-mark .question-mark {
+	font-size: 95px;
+	font-family: "Honk", system-ui;
+	font-weight: normal;
+}
+
 .hyphen {
 	font-size: 95px;
 	font-family: "Honk", system-ui;
